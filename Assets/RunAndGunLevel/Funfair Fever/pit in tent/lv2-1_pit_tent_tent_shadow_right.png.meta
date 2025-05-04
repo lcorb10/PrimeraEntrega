@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: 8fff20e7c0fcdb04baa512faa2bc5228
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7492922169789599574
+    second: lv2-1_pit_tent_tent_shadow_right_0
+  - first:
+      213: 3177413185692628433
+    second: lv2-1_pit_tent_tent_shadow_right_1
+  - first:
+      213: 2786334576129340884
+    second: lv2-1_pit_tent_tent_shadow_right_2
+  - first:
+      213: 5492179748182251278
+    second: lv2-1_pit_tent_tent_shadow_right_3
+  - first:
+      213: -6094515200610636890
+    second: lv2-1_pit_tent_tent_shadow_right_4
+  - first:
+      213: -1907022243396383396
+    second: lv2-1_pit_tent_tent_shadow_right_5
+  - first:
+      213: 7793916575279337352
+    second: lv2-1_pit_tent_tent_shadow_right_6
+  - first:
+      213: 5227524569931822616
+    second: lv2-1_pit_tent_tent_shadow_right_7
+  - first:
+      213: -5654424658125614763
+    second: lv2-1_pit_tent_tent_shadow_right_8
+  - first:
+      213: -598264902107636891
+    second: lv2-1_pit_tent_tent_shadow_right_9
+  - first:
+      213: 3507610386048750909
+    second: lv2-1_pit_tent_tent_shadow_right_10
+  - first:
+      213: 7078895050054688485
+    second: lv2-1_pit_tent_tent_shadow_right_11
+  - first:
+      213: -1542492982427697077
+    second: lv2-1_pit_tent_tent_shadow_right_12
+  - first:
+      213: 7260855026028483908
+    second: lv2-1_pit_tent_tent_shadow_right_13
+  - first:
+      213: -2132457672624343068
+    second: lv2-1_pit_tent_tent_shadow_right_14
+  - first:
+      213: 365609820707156693
+    second: lv2-1_pit_tent_tent_shadow_right_15
+  - first:
+      213: 7931456886519225356
+    second: lv2-1_pit_tent_tent_shadow_right_16
+  - first:
+      213: -1611888984578755061
+    second: lv2-1_pit_tent_tent_shadow_right_17
+  - first:
+      213: -6906116594948025000
+    second: lv2-1_pit_tent_tent_shadow_right_18
+  - first:
+      213: 4452037512040839257
+    second: lv2-1_pit_tent_tent_shadow_right_19
+  - first:
+      213: -8784081856791411660
+    second: lv2-1_pit_tent_tent_shadow_right_20
+  - first:
+      213: -1015132899042487400
+    second: lv2-1_pit_tent_tent_shadow_right_21
+  - first:
+      213: -1553766061186461439
+    second: lv2-1_pit_tent_tent_shadow_right_22
+  - first:
+      213: 524524549843041889
+    second: lv2-1_pit_tent_tent_shadow_right_23
+  - first:
+      213: 7390098206710661385
+    second: lv2-1_pit_tent_tent_shadow_right_24
+  - first:
+      213: -1937974390986953542
+    second: lv2-1_pit_tent_tent_shadow_right_25
+  - first:
+      213: -933075185867211720
+    second: lv2-1_pit_tent_tent_shadow_right_26
+  - first:
+      213: 8584016975613392685
+    second: lv2-1_pit_tent_tent_shadow_right_27
+  - first:
+      213: 6614973497182539255
+    second: lv2-1_pit_tent_tent_shadow_right_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_0
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1866
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f45f3a3053cf760800000000000000
+      internalID: 7492922169789599574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1891
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5f9dd2570781c20800000000000000
+      internalID: 3177413185692628433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1891
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5f39bc88c0ba620800000000000000
+      internalID: 2786334576129340884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1850
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e075ff4d164283c40800000000000000
+      internalID: 5492179748182251278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1859
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab626517beeb6ba0800000000000000
+      internalID: -6094515200610636890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1838
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d079b9f55e885e0800000000000000
+      internalID: -1907022243396383396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1841
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fcd8ec4dd892c60800000000000000
+      internalID: 7793916575279337352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1847
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816b96556e5eb8840800000000000000
+      internalID: 5227524569931822616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1819
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551963b5bb27781b0800000000000000
+      internalID: -5654424658125614763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1823
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b5a44cd3982b7f0800000000000000
+      internalID: -598264902107636891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1831
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3518eedf098da030800000000000000
+      internalID: 3507610386048750909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1791
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eed7ccda894d3260800000000000000
+      internalID: 7078895050054688485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1812
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b404dd11ec6f79ae0800000000000000
+      internalID: -1542492982427697077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1803
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44599003d2db3c460800000000000000
+      internalID: 7260855026028483908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1787
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e77ba48b0df762e0800000000000000
+      internalID: -2132457672624343068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1779
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2f4a1e138e21500800000000000000
+      internalID: 365609820707156693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1744
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cdd400402321e60800000000000000
+      internalID: 7931456886519225356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1762
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0671d8328b61a9e0800000000000000
+      internalID: -1611888984578755061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1768
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85551bc0c8b8820a0800000000000000
+      internalID: -6906116594948025000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1722
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95878ef7780d8cd30800000000000000
+      internalID: 4452037512040839257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1730
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4348eff571ca81680800000000000000
+      internalID: -8784081856791411660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1711
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89392c8b10689e1f0800000000000000
+      internalID: -1015132899042487400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1723
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1015ce2eff9ef6ae0800000000000000
+      internalID: -1553766061186461439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1695
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ebd5d8c4c774700800000000000000
+      internalID: 524524549843041889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1689
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9018d322a27ee8660800000000000000
+      internalID: 7390098206710661385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 1885
+        height: 1687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc2b692f8eea15e0800000000000000
+      internalID: -1937974390986953542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c37a5ef0d0d03f0800000000000000
+      internalID: -933075185867211720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1527
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27fb5195fd802770800000000000000
+      internalID: 8584016975613392685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-1_pit_tent_tent_shadow_right_28
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd403a195b1dcb50800000000000000
+      internalID: 6614973497182539255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

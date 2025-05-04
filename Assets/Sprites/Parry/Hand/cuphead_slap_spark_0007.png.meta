@@ -1,0 +1,1480 @@
+fileFormatVersion: 2
+guid: 5890a7a3bd50ca340a37456c5be2e3d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2171096928875974150
+    second: cuphead_slap_spark_0007_0
+  - first:
+      213: 1840662712413325323
+    second: cuphead_slap_spark_0007_1
+  - first:
+      213: 67046572136129898
+    second: cuphead_slap_spark_0007_2
+  - first:
+      213: -6905923064042458666
+    second: cuphead_slap_spark_0007_3
+  - first:
+      213: -3130244116146883154
+    second: cuphead_slap_spark_0007_4
+  - first:
+      213: -6735781487284687004
+    second: cuphead_slap_spark_0007_5
+  - first:
+      213: -9010808604754266965
+    second: cuphead_slap_spark_0007_6
+  - first:
+      213: -6856851115414805515
+    second: cuphead_slap_spark_0007_7
+  - first:
+      213: 3529090935430321827
+    second: cuphead_slap_spark_0007_8
+  - first:
+      213: 8531408338807081072
+    second: cuphead_slap_spark_0007_9
+  - first:
+      213: -5562063128403559614
+    second: cuphead_slap_spark_0007_10
+  - first:
+      213: 8197780831198059100
+    second: cuphead_slap_spark_0007_11
+  - first:
+      213: -7621469590543323354
+    second: cuphead_slap_spark_0007_12
+  - first:
+      213: -8263248463286850606
+    second: cuphead_slap_spark_0007_13
+  - first:
+      213: -8568762970684781165
+    second: cuphead_slap_spark_0007_14
+  - first:
+      213: 5529136646655040353
+    second: cuphead_slap_spark_0007_15
+  - first:
+      213: 5217868045181357496
+    second: cuphead_slap_spark_0007_16
+  - first:
+      213: 5189533351701351431
+    second: cuphead_slap_spark_0007_17
+  - first:
+      213: 5134772410745623889
+    second: cuphead_slap_spark_0007_18
+  - first:
+      213: -5470076948094813508
+    second: cuphead_slap_spark_0007_19
+  - first:
+      213: -8960746373897944882
+    second: cuphead_slap_spark_0007_20
+  - first:
+      213: 5993551059573048038
+    second: cuphead_slap_spark_0007_21
+  - first:
+      213: -4449785723152735829
+    second: cuphead_slap_spark_0007_22
+  - first:
+      213: -1445328225789028510
+    second: cuphead_slap_spark_0007_23
+  - first:
+      213: 8882620239926248833
+    second: cuphead_slap_spark_0007_24
+  - first:
+      213: -5618554604583985311
+    second: cuphead_slap_spark_0007_25
+  - first:
+      213: -2901426676097499935
+    second: cuphead_slap_spark_0007_26
+  - first:
+      213: 8044840337878353052
+    second: cuphead_slap_spark_0007_27
+  - first:
+      213: 2342207749594036827
+    second: cuphead_slap_spark_0007_28
+  - first:
+      213: -7367431285149897442
+    second: cuphead_slap_spark_0007_29
+  - first:
+      213: 1031115937109001794
+    second: cuphead_slap_spark_0007_30
+  - first:
+      213: -4428620123420644775
+    second: cuphead_slap_spark_0007_31
+  - first:
+      213: -8947551575146128386
+    second: cuphead_slap_spark_0007_32
+  - first:
+      213: -3901460493490579872
+    second: cuphead_slap_spark_0007_33
+  - first:
+      213: -3722282585326232768
+    second: cuphead_slap_spark_0007_34
+  - first:
+      213: -8847558676170726554
+    second: cuphead_slap_spark_0007_35
+  - first:
+      213: 5859520213861852876
+    second: cuphead_slap_spark_0007_36
+  - first:
+      213: 5628966930849465772
+    second: cuphead_slap_spark_0007_37
+  - first:
+      213: 2558458326930453502
+    second: cuphead_slap_spark_0007_38
+  - first:
+      213: 3287832090532528416
+    second: cuphead_slap_spark_0007_39
+  - first:
+      213: 8313910199708811415
+    second: cuphead_slap_spark_0007_40
+  - first:
+      213: 7176222481187392563
+    second: cuphead_slap_spark_0007_41
+  - first:
+      213: 7012126570636761542
+    second: cuphead_slap_spark_0007_42
+  - first:
+      213: 5869320035704002368
+    second: cuphead_slap_spark_0007_43
+  - first:
+      213: 7812717317691732796
+    second: cuphead_slap_spark_0007_44
+  - first:
+      213: -7612130728637107693
+    second: cuphead_slap_spark_0007_45
+  - first:
+      213: 7676489951735290789
+    second: cuphead_slap_spark_0007_46
+  - first:
+      213: 9128941942326287807
+    second: cuphead_slap_spark_0007_47
+  - first:
+      213: 2212421255828218269
+    second: cuphead_slap_spark_0007_48
+  - first:
+      213: -7960637949421276372
+    second: cuphead_slap_spark_0007_49
+  - first:
+      213: 2676329784609155286
+    second: cuphead_slap_spark_0007_50
+  - first:
+      213: 8016161580108260842
+    second: cuphead_slap_spark_0007_51
+  - first:
+      213: -1380881937698588316
+    second: cuphead_slap_spark_0007_52
+  - first:
+      213: 534967888793469739
+    second: cuphead_slap_spark_0007_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 255
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e08926729412e10800000000000000
+      internalID: 2171096928875974150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 249
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0804b41cf85b8910800000000000000
+      internalID: 1840662712413325323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 237
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65e49b80823ee000800000000000000
+      internalID: 67046572136129898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 223
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d17299ff8b3920a0800000000000000
+      internalID: -6905923064042458666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 224
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5fec4af832f84d0800000000000000
+      internalID: -3130244116146883154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f6ebdcc62b582a0800000000000000
+      internalID: -6735781487284687004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 224
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4b696b05d23f280800000000000000
+      internalID: -9010808604754266965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 226
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3a5fb5d3297d0a0800000000000000
+      internalID: -6856851115414805515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 225
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a610620289d9f030800000000000000
+      internalID: 3529090935430321827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 215
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078c66ccea6a56670800000000000000
+      internalID: 8531408338807081072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 216
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b3535cd059fc2b0800000000000000
+      internalID: -5562063128403559614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 214
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a11167b3e54c170800000000000000
+      internalID: 8197780831198059100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 201
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f2935a9c91b3690800000000000000
+      internalID: -7621469590543323354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 201
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbaefe9d4b035d80800000000000000
+      internalID: -8263248463286850606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 206
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d00d73a73a51980800000000000000
+      internalID: -8568762970684781165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 205
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bd77a4c707bbc40800000000000000
+      internalID: 5529136646655040353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 201
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd85e57757996840800000000000000
+      internalID: 5217868045181357496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 197
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c833a861de40840800000000000000
+      internalID: 5189533351701351431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15518f86d40624740800000000000000
+      internalID: 5134772410745623889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 191
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba71c65ff16614b0800000000000000
+      internalID: -5470076948094813508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0817526a805a380800000000000000
+      internalID: -8960746373897944882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 173
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e28409feee5d2350800000000000000
+      internalID: 5993551059573048038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 177
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba160e4f57f2f32c0800000000000000
+      internalID: -4449785723152735829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 173
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267dff5e2a921fbe0800000000000000
+      internalID: -1445328225789028510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 176
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185cf7bcb08654b70800000000000000
+      internalID: 8882620239926248833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 164
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fd2a20b52e602b0800000000000000
+      internalID: -5618554604583985311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 148
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecbd5d7fcf0cb7d0800000000000000
+      internalID: -2901426676097499935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_27
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 155
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9409f5f9a305af60800000000000000
+      internalID: 8044840337878353052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 131
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a38b8e981318020800000000000000
+      internalID: 2342207749594036827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 129
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d6a8dc740a1c990800000000000000
+      internalID: -7367431285149897442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_30
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 131
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24640a15b724f4e00800000000000000
+      internalID: 1031115937109001794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 113
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aad5a26716a82c0800000000000000
+      internalID: -4428620123420644775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_32
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 101
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb9de1af39e3d380800000000000000
+      internalID: -8947551575146128386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066164c1a5a3bd9c0800000000000000
+      internalID: -3901460493490579872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_34
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 72
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bd10cc5bbc75cc0800000000000000
+      internalID: -3722282585326232768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 67
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6632b69a248273580800000000000000
+      internalID: -8847558676170726554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6e475e692315150800000000000000
+      internalID: 5859520213861852876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 58
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca504bd999b1e1e40800000000000000
+      internalID: 5628966930849465772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 58
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef374550b48718320800000000000000
+      internalID: 2558458326930453502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_39
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 62
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021425dddd9b0ad20800000000000000
+      internalID: 3287832090532528416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 56
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79004241741f06370800000000000000
+      internalID: 8313910199708811415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_41
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 59
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cc85c4350179360800000000000000
+      internalID: 7176222481187392563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 32
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9d1e2d6f3105160800000000000000
+      internalID: 7012126570636761542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0475839b973047150800000000000000
+      internalID: 5869320035704002368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_44
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33fe83c1095c6c60800000000000000
+      internalID: 7812717317691732796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 24
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312ffbfde674c5690800000000000000
+      internalID: -7612130728637107693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_46
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 17
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab990770fe588a60800000000000000
+      internalID: 7676489951735290789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdd58f445480be70800000000000000
+      internalID: 9128941942326287807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_48
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 7
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d912a27096914be10800000000000000
+      internalID: 2212421255828218269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_49
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 13
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23304756f1268190800000000000000
+      internalID: -7960637949421276372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_50
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 13
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d82d6162cb342520800000000000000
+      internalID: 2676329784609155286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_51
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5ac745c702f3f60800000000000000
+      internalID: 8016161580108260842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_52
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469f8b2a13f16dce0800000000000000
+      internalID: -1380881937698588316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_slap_spark_0007_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2386c1e5769c6700800000000000000
+      internalID: 534967888793469739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
