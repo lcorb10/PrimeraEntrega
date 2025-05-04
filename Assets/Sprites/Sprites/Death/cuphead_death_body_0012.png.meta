@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 4fdc75daa8fb4e74da373576cfe3b90b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1729882049292438490
+    second: cuphead_death_body_0012_0
+  - first:
+      213: -3456166002543922296
+    second: cuphead_death_body_0012_1
+  - first:
+      213: 804455937484258285
+    second: cuphead_death_body_0012_2
+  - first:
+      213: -1592085013951802048
+    second: cuphead_death_body_0012_3
+  - first:
+      213: 7949292438804300442
+    second: cuphead_death_body_0012_4
+  - first:
+      213: 595909587830447690
+    second: cuphead_death_body_0012_5
+  - first:
+      213: 205880458485280495
+    second: cuphead_death_body_0012_6
+  - first:
+      213: -4208365355869220177
+    second: cuphead_death_body_0012_7
+  - first:
+      213: 7745603996500290940
+    second: cuphead_death_body_0012_8
+  - first:
+      213: 7431027493316290078
+    second: cuphead_death_body_0012_9
+  - first:
+      213: -5394654873341193303
+    second: cuphead_death_body_0012_10
+  - first:
+      213: 2485443670621412287
+    second: cuphead_death_body_0012_11
+  - first:
+      213: 4245199160561790107
+    second: cuphead_death_body_0012_12
+  - first:
+      213: 655342736985488098
+    second: cuphead_death_body_0012_13
+  - first:
+      213: 3279664538029465122
+    second: cuphead_death_body_0012_14
+  - first:
+      213: -2433555944648999023
+    second: cuphead_death_body_0012_15
+  - first:
+      213: 7407131662346476520
+    second: cuphead_death_body_0012_16
+  - first:
+      213: 520140200677769159
+    second: cuphead_death_body_0012_17
+  - first:
+      213: -2402674407044484068
+    second: cuphead_death_body_0012_18
+  - first:
+      213: -5387089627859239926
+    second: cuphead_death_body_0012_19
+  - first:
+      213: -5826071756685535461
+    second: cuphead_death_body_0012_20
+  - first:
+      213: -5083208064679028165
+    second: cuphead_death_body_0012_21
+  - first:
+      213: 5785747901356490634
+    second: cuphead_death_body_0012_22
+  - first:
+      213: 9090729370075881599
+    second: cuphead_death_body_0012_23
+  - first:
+      213: -7374185817608766913
+    second: cuphead_death_body_0012_24
+  - first:
+      213: -8999269483166975234
+    second: cuphead_death_body_0012_25
+  - first:
+      213: 1502209016701992467
+    second: cuphead_death_body_0012_26
+  - first:
+      213: 2853397079263901865
+    second: cuphead_death_body_0012_27
+  - first:
+      213: 5042189629826979023
+    second: cuphead_death_body_0012_28
+  - first:
+      213: 803004450028527414
+    second: cuphead_death_body_0012_29
+  - first:
+      213: 5538963040732768078
+    second: cuphead_death_body_0012_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 66
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624799401793ef7e0800000000000000
+      internalID: -1729882049292438490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 51
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883769d055b3900d0800000000000000
+      internalID: -3456166002543922296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 60
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debf337b9600a2b00800000000000000
+      internalID: 804455937484258285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 63
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0451e237d17c7e9e0800000000000000
+      internalID: -1592085013951802048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 70
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9201ae1b5f815e60800000000000000
+      internalID: 7949292438804300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 64
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e12e4ec98154800800000000000000
+      internalID: 595909587830447690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feea53aaf2f6bd200800000000000000
+      internalID: 205880458485280495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2da567102e895c0800000000000000
+      internalID: -4208365355869220177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 57
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dee3efbc9ed7b60800000000000000
+      internalID: 7745603996500290940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 56
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1667474220502760800000000000000
+      internalID: 7431027493316290078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 59
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a31bac89f55225b0800000000000000
+      internalID: -5394654873341193303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 58
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbd1a899d11e7220800000000000000
+      internalID: 2485443670621412287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_12
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 56
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c621ef42af9ea30800000000000000
+      internalID: 4245199160561790107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 50
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaf6244fbe381900800000000000000
+      internalID: 655342736985488098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e11bb5585b38d20800000000000000
+      internalID: 3279664538029465122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ff72a03c54a3ed0800000000000000
+      internalID: -2433555944648999023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 45
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebd5b2900b6bc660800000000000000
+      internalID: 7407131662346476520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 37
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf7cc6b1c8e73700800000000000000
+      internalID: 520140200677769159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 44
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14f0315b5cf7aed0800000000000000
+      internalID: -2402674407044484068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 35
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c324686863d35b0800000000000000
+      internalID: -5387089627859239926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 20
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1792daea92a52fa0800000000000000
+      internalID: -5826071756685535461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 30
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ad7697231d479b0800000000000000
+      internalID: -5083208064679028165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 24
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fb054ef0b1b4050800000000000000
+      internalID: 5785747901356490634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 22
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7065948232c82e70800000000000000
+      internalID: 9090729370075881599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ab4b9a111a9a990800000000000000
+      internalID: -7374185817608766913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 9
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efab1d1d51c2c1380800000000000000
+      internalID: -8999269483166975234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 8
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e39e2442be8d410800000000000000
+      internalID: 1502209016701992467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a879a0968d499720800000000000000
+      internalID: 2853397079263901865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_28
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4deffe0c479f540800000000000000
+      internalID: 5042189629826979023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_29
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 5
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f1205fa48d42b00800000000000000
+      internalID: 803004450028527414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_death_body_0012_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47e4e2f9895edc40800000000000000
+      internalID: 5538963040732768078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cuphead_death_body_0012_0: -1729882049292438490
+      cuphead_death_body_0012_1: -3456166002543922296
+      cuphead_death_body_0012_10: -5394654873341193303
+      cuphead_death_body_0012_11: 2485443670621412287
+      cuphead_death_body_0012_12: 4245199160561790107
+      cuphead_death_body_0012_13: 655342736985488098
+      cuphead_death_body_0012_14: 3279664538029465122
+      cuphead_death_body_0012_15: -2433555944648999023
+      cuphead_death_body_0012_16: 7407131662346476520
+      cuphead_death_body_0012_17: 520140200677769159
+      cuphead_death_body_0012_18: -2402674407044484068
+      cuphead_death_body_0012_19: -5387089627859239926
+      cuphead_death_body_0012_2: 804455937484258285
+      cuphead_death_body_0012_20: -5826071756685535461
+      cuphead_death_body_0012_21: -5083208064679028165
+      cuphead_death_body_0012_22: 5785747901356490634
+      cuphead_death_body_0012_23: 9090729370075881599
+      cuphead_death_body_0012_24: -7374185817608766913
+      cuphead_death_body_0012_25: -8999269483166975234
+      cuphead_death_body_0012_26: 1502209016701992467
+      cuphead_death_body_0012_27: 2853397079263901865
+      cuphead_death_body_0012_28: 5042189629826979023
+      cuphead_death_body_0012_29: 803004450028527414
+      cuphead_death_body_0012_3: -1592085013951802048
+      cuphead_death_body_0012_30: 5538963040732768078
+      cuphead_death_body_0012_4: 7949292438804300442
+      cuphead_death_body_0012_5: 595909587830447690
+      cuphead_death_body_0012_6: 205880458485280495
+      cuphead_death_body_0012_7: -4208365355869220177
+      cuphead_death_body_0012_8: 7745603996500290940
+      cuphead_death_body_0012_9: 7431027493316290078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

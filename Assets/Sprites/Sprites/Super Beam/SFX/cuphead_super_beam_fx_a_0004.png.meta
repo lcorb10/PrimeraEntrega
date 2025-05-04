@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 6b8014d54575fd34c9f798071b15c34a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4818416304649819723
+    second: cuphead_super_beam_fx_a_0004_0
+  - first:
+      213: 4161362311703279611
+    second: cuphead_super_beam_fx_a_0004_1
+  - first:
+      213: 7635412370815966702
+    second: cuphead_super_beam_fx_a_0004_2
+  - first:
+      213: -1046048946886868861
+    second: cuphead_super_beam_fx_a_0004_3
+  - first:
+      213: 5407231573651495133
+    second: cuphead_super_beam_fx_a_0004_4
+  - first:
+      213: -4440859001295178974
+    second: cuphead_super_beam_fx_a_0004_5
+  - first:
+      213: -7770785713116900073
+    second: cuphead_super_beam_fx_a_0004_6
+  - first:
+      213: 1046242023400817881
+    second: cuphead_super_beam_fx_a_0004_7
+  - first:
+      213: 9184955483571880433
+    second: cuphead_super_beam_fx_a_0004_8
+  - first:
+      213: 6975546096104077378
+    second: cuphead_super_beam_fx_a_0004_9
+  - first:
+      213: -1169524514558215147
+    second: cuphead_super_beam_fx_a_0004_10
+  - first:
+      213: 429196037415033459
+    second: cuphead_super_beam_fx_a_0004_11
+  - first:
+      213: 8229293310162529023
+    second: cuphead_super_beam_fx_a_0004_12
+  - first:
+      213: 6549020475038695064
+    second: cuphead_super_beam_fx_a_0004_13
+  - first:
+      213: -859190266483192611
+    second: cuphead_super_beam_fx_a_0004_14
+  - first:
+      213: 2970404040024785437
+    second: cuphead_super_beam_fx_a_0004_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 222
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9a56566eb812db0800000000000000
+      internalID: -4818416304649819723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 244
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7b5c289f020c930800000000000000
+      internalID: 4161362311703279611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 248
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeddb1cd81f66f960800000000000000
+      internalID: 7635412370815966702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 226
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38003276600bb71f0800000000000000
+      internalID: -1046048946886868861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 214
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd816cda7785a0b40800000000000000
+      internalID: 5407231573651495133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 227
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223743a5446ee52c0800000000000000
+      internalID: -4440859001295178974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 172
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7159cf7b09f982490800000000000000
+      internalID: -7770785713116900073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 74
+        width: 144
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d444e9b39ff48e00800000000000000
+      internalID: 1046242023400817881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1041c2954877f70800000000000000
+      internalID: 9184955483571880433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 137
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24875a4673e1ec060800000000000000
+      internalID: 6975546096104077378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 43
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c75a186a305cfe0800000000000000
+      internalID: -1169524514558215147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 29
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ad025a58fc4f500800000000000000
+      internalID: 429196037415033459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 58
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa6cb83aa2543270800000000000000
+      internalID: 8229293310162529023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 12
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ef0718c6bc2ea50800000000000000
+      internalID: 6549020475038695064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddccbcb310b8314f0800000000000000
+      internalID: -859190266483192611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuphead_super_beam_fx_a_0004_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 24
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12001d8cbef83920800000000000000
+      internalID: 2970404040024785437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cuphead_super_beam_fx_a_0004_0: -4818416304649819723
+      cuphead_super_beam_fx_a_0004_1: 4161362311703279611
+      cuphead_super_beam_fx_a_0004_10: -1169524514558215147
+      cuphead_super_beam_fx_a_0004_11: 429196037415033459
+      cuphead_super_beam_fx_a_0004_12: 8229293310162529023
+      cuphead_super_beam_fx_a_0004_13: 6549020475038695064
+      cuphead_super_beam_fx_a_0004_14: -859190266483192611
+      cuphead_super_beam_fx_a_0004_15: 2970404040024785437
+      cuphead_super_beam_fx_a_0004_2: 7635412370815966702
+      cuphead_super_beam_fx_a_0004_3: -1046048946886868861
+      cuphead_super_beam_fx_a_0004_4: 5407231573651495133
+      cuphead_super_beam_fx_a_0004_5: -4440859001295178974
+      cuphead_super_beam_fx_a_0004_6: -7770785713116900073
+      cuphead_super_beam_fx_a_0004_7: 1046242023400817881
+      cuphead_super_beam_fx_a_0004_8: 9184955483571880433
+      cuphead_super_beam_fx_a_0004_9: 6975546096104077378
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

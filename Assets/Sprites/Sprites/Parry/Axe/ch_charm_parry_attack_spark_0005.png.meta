@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 5146889229160b84ab5c8a22e9ef7178
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1572181447158942275
+    second: ch_charm_parry_attack_spark_0005_0
+  - first:
+      213: 2445012527819348486
+    second: ch_charm_parry_attack_spark_0005_1
+  - first:
+      213: -6366472489660095706
+    second: ch_charm_parry_attack_spark_0005_2
+  - first:
+      213: 1372272023487879520
+    second: ch_charm_parry_attack_spark_0005_3
+  - first:
+      213: -1408415997877705475
+    second: ch_charm_parry_attack_spark_0005_4
+  - first:
+      213: -7746263667447711467
+    second: ch_charm_parry_attack_spark_0005_5
+  - first:
+      213: 4592674658592112342
+    second: ch_charm_parry_attack_spark_0005_6
+  - first:
+      213: 7419943596072935369
+    second: ch_charm_parry_attack_spark_0005_7
+  - first:
+      213: 5546113448319908355
+    second: ch_charm_parry_attack_spark_0005_8
+  - first:
+      213: 7789696801402558040
+    second: ch_charm_parry_attack_spark_0005_9
+  - first:
+      213: -2462359496771521478
+    second: ch_charm_parry_attack_spark_0005_10
+  - first:
+      213: -1836194424407365551
+    second: ch_charm_parry_attack_spark_0005_11
+  - first:
+      213: -4017559146808850108
+    second: ch_charm_parry_attack_spark_0005_12
+  - first:
+      213: -6001541153277368314
+    second: ch_charm_parry_attack_spark_0005_13
+  - first:
+      213: -2898431292543617507
+    second: ch_charm_parry_attack_spark_0005_14
+  - first:
+      213: -7448872211045108301
+    second: ch_charm_parry_attack_spark_0005_15
+  - first:
+      213: -5264598764625069648
+    second: ch_charm_parry_attack_spark_0005_16
+  - first:
+      213: -4702315037443200482
+    second: ch_charm_parry_attack_spark_0005_17
+  - first:
+      213: 9046390229876438784
+    second: ch_charm_parry_attack_spark_0005_18
+  - first:
+      213: 3637156645857910580
+    second: ch_charm_parry_attack_spark_0005_19
+  - first:
+      213: 8225661588092443794
+    second: ch_charm_parry_attack_spark_0005_20
+  - first:
+      213: -422455722998717823
+    second: ch_charm_parry_attack_spark_0005_21
+  - first:
+      213: 1322636050906036544
+    second: ch_charm_parry_attack_spark_0005_22
+  - first:
+      213: 2365780305441695705
+    second: ch_charm_parry_attack_spark_0005_23
+  - first:
+      213: 3087335390914765084
+    second: ch_charm_parry_attack_spark_0005_24
+  - first:
+      213: -3304123319713232807
+    second: ch_charm_parry_attack_spark_0005_25
+  - first:
+      213: 8348979852877636817
+    second: ch_charm_parry_attack_spark_0005_26
+  - first:
+      213: -4978719352902428560
+    second: ch_charm_parry_attack_spark_0005_27
+  - first:
+      213: 2105387638402751866
+    second: ch_charm_parry_attack_spark_0005_28
+  - first:
+      213: 414657585277312298
+    second: ch_charm_parry_attack_spark_0005_29
+  - first:
+      213: -6135619094682660021
+    second: ch_charm_parry_attack_spark_0005_30
+  - first:
+      213: 4115875313788503387
+    second: ch_charm_parry_attack_spark_0005_31
+  - first:
+      213: 5745545651130664259
+    second: ch_charm_parry_attack_spark_0005_32
+  - first:
+      213: -7114369865842174751
+    second: ch_charm_parry_attack_spark_0005_33
+  - first:
+      213: -5940212798124122196
+    second: ch_charm_parry_attack_spark_0005_34
+  - first:
+      213: -7304570934202753295
+    second: ch_charm_parry_attack_spark_0005_35
+  - first:
+      213: -3294457075547979653
+    second: ch_charm_parry_attack_spark_0005_36
+  - first:
+      213: -3592435796676106665
+    second: ch_charm_parry_attack_spark_0005_37
+  - first:
+      213: 3090981011878068097
+    second: ch_charm_parry_attack_spark_0005_38
+  - first:
+      213: -1826343836476813603
+    second: ch_charm_parry_attack_spark_0005_39
+  - first:
+      213: 5815770620341751117
+    second: ch_charm_parry_attack_spark_0005_40
+  - first:
+      213: -4798020389319726257
+    second: ch_charm_parry_attack_spark_0005_41
+  - first:
+      213: -2912668669975841532
+    second: ch_charm_parry_attack_spark_0005_42
+  - first:
+      213: -6669016051192142802
+    second: ch_charm_parry_attack_spark_0005_43
+  - first:
+      213: -9206099187380170106
+    second: ch_charm_parry_attack_spark_0005_44
+  - first:
+      213: -5416628626718634016
+    second: ch_charm_parry_attack_spark_0005_45
+  - first:
+      213: 5511157214934413364
+    second: ch_charm_parry_attack_spark_0005_46
+  - first:
+      213: -2015602798871440677
+    second: ch_charm_parry_attack_spark_0005_47
+  - first:
+      213: -1692347387210603830
+    second: ch_charm_parry_attack_spark_0005_48
+  - first:
+      213: 895745648555400137
+    second: ch_charm_parry_attack_spark_0005_49
+  - first:
+      213: -1128318927168093547
+    second: ch_charm_parry_attack_spark_0005_50
+  - first:
+      213: -1307973545644498938
+    second: ch_charm_parry_attack_spark_0005_51
+  - first:
+      213: -2971779979532302235
+    second: ch_charm_parry_attack_spark_0005_52
+  - first:
+      213: 8681180097378901353
+    second: ch_charm_parry_attack_spark_0005_53
+  - first:
+      213: 8566411303978101204
+    second: ch_charm_parry_attack_spark_0005_54
+  - first:
+      213: 4354352942376635237
+    second: ch_charm_parry_attack_spark_0005_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 218
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a4e5842b281d510800000000000000
+      internalID: 1572181447158942275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 213
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a5d0890fd6ee120800000000000000
+      internalID: 2445012527819348486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 228
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623638d600fb5a7a0800000000000000
+      internalID: -6366472489660095706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 206
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069933f722a4b0310800000000000000
+      internalID: 1372272023487879520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 197
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4a58eac1d447ce0800000000000000
+      internalID: -1408415997877705475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 199
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519b3456c3ebf7490800000000000000
+      internalID: -7746263667447711467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 199
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de325ad4457cbf30800000000000000
+      internalID: 4592674658592112342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 209
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf9c59536fe8f660800000000000000
+      internalID: 7419943596072935369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 203
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30aff13fbc0c7fc40800000000000000
+      internalID: 5546113448319908355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 194
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856989328ff8a1c60800000000000000
+      internalID: 7789696801402558040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 198
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34bf957511f3ddd0800000000000000
+      internalID: -2462359496771521478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 204
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15865aa46e68486e0800000000000000
+      internalID: -1836194424407365551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 179
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449465eed33ce38c0800000000000000
+      internalID: -4017559146808850108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 181
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608a30e5e1e36bca0800000000000000
+      internalID: -6001541153277368314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 176
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16bf029814b6c7d0800000000000000
+      internalID: -2898431292543617507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 178
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5b06b903a40a890800000000000000
+      internalID: -7448872211045108301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_16
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 191
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9ff8d015360f6b0800000000000000
+      internalID: -5264598764625069648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 181
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a683b23650ebeb0800000000000000
+      internalID: -4702315037443200482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 193
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0077957fbfb3b8d70800000000000000
+      internalID: 9046390229876438784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 161
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fdfcce2b6c97230800000000000000
+      internalID: 3637156645857910580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 164
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c53d802ab672270800000000000000
+      internalID: 8225661588092443794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 169
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182a45912c2232af0800000000000000
+      internalID: -422455722998717823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 147
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049316d0b72fa5210800000000000000
+      internalID: 1322636050906036544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 156
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7a77247a0f4d020800000000000000
+      internalID: 2365780305441695705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1167fd3e2b68da20800000000000000
+      internalID: 3087335390914765084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 138
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9588862c8556522d0800000000000000
+      internalID: -3304123319713232807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 141
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d42aaff0f88dd370800000000000000
+      internalID: 8348979852877636817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 137
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07853ed702908eab0800000000000000
+      internalID: -4978719352902428560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 130
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d9e7df6e6d73d10800000000000000
+      internalID: 2105387638402751866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 120
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d10e970e821c500800000000000000
+      internalID: 414657585277312298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 117
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b431658f0f6e9daa0800000000000000
+      internalID: -6135619094682660021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 107
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55c9228ac68e1930800000000000000
+      internalID: 4115875313788503387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 105
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3450f6814574cbf40800000000000000
+      internalID: 5745545651130664259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 89
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4dbb1fc4ea44d90800000000000000
+      internalID: -7114369865842174751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 69
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf1595ceef109da0800000000000000
+      internalID: -5940212798124122196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 69
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe9336cf63f0aa90800000000000000
+      internalID: -7304570934202753295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_36
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 77
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70c03c9ebcb742d0800000000000000
+      internalID: -3294457075547979653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 77
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75629bc2daa152ec0800000000000000
+      internalID: -3592435796676106665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f38748ade55ea20800000000000000
+      internalID: 3090981011878068097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 48
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde431505f587a6e0800000000000000
+      internalID: -1826343836476813603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_40
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 52
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d8f90e094c5b050800000000000000
+      internalID: 5815770620341751117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_41
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 50
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b248d70e10a6db0800000000000000
+      internalID: -4798020389319726257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4053ea1d64f1497d0800000000000000
+      internalID: -2912668669975841532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 36
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2460534c35e273a0800000000000000
+      internalID: -6669016051192142802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 33
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6825139a09d5d3080800000000000000
+      internalID: -9206099187380170106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 31
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef493866f444d4b0800000000000000
+      internalID: -5416628626718634016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 39
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4303f71a9409b7c40800000000000000
+      internalID: 5511157214934413364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_47
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 29
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd21cfcfee32704e0800000000000000
+      internalID: -2015602798871440677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 23
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac260cc84039388e0800000000000000
+      internalID: -1692347387210603830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_49
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 27
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb1f37ebe35e6c00800000000000000
+      internalID: 895745648555400137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_50
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 22
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592cbc0f9e76750f0800000000000000
+      internalID: -1128318927168093547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 17
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600604c7df429dde0800000000000000
+      internalID: -1307973545644498938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 13
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5680c519add12c6d0800000000000000
+      internalID: -2971779979532302235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 10
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dd57fbd4fb97870800000000000000
+      internalID: 8681180097378901353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_54
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d96185b1b102e670800000000000000
+      internalID: 8566411303978101204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch_charm_parry_attack_spark_0005_55
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b49054ee4cd6c30800000000000000
+      internalID: 4354352942376635237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ch_charm_parry_attack_spark_0005_0: 1572181447158942275
+      ch_charm_parry_attack_spark_0005_1: 2445012527819348486
+      ch_charm_parry_attack_spark_0005_10: -2462359496771521478
+      ch_charm_parry_attack_spark_0005_11: -1836194424407365551
+      ch_charm_parry_attack_spark_0005_12: -4017559146808850108
+      ch_charm_parry_attack_spark_0005_13: -6001541153277368314
+      ch_charm_parry_attack_spark_0005_14: -2898431292543617507
+      ch_charm_parry_attack_spark_0005_15: -7448872211045108301
+      ch_charm_parry_attack_spark_0005_16: -5264598764625069648
+      ch_charm_parry_attack_spark_0005_17: -4702315037443200482
+      ch_charm_parry_attack_spark_0005_18: 9046390229876438784
+      ch_charm_parry_attack_spark_0005_19: 3637156645857910580
+      ch_charm_parry_attack_spark_0005_2: -6366472489660095706
+      ch_charm_parry_attack_spark_0005_20: 8225661588092443794
+      ch_charm_parry_attack_spark_0005_21: -422455722998717823
+      ch_charm_parry_attack_spark_0005_22: 1322636050906036544
+      ch_charm_parry_attack_spark_0005_23: 2365780305441695705
+      ch_charm_parry_attack_spark_0005_24: 3087335390914765084
+      ch_charm_parry_attack_spark_0005_25: -3304123319713232807
+      ch_charm_parry_attack_spark_0005_26: 8348979852877636817
+      ch_charm_parry_attack_spark_0005_27: -4978719352902428560
+      ch_charm_parry_attack_spark_0005_28: 2105387638402751866
+      ch_charm_parry_attack_spark_0005_29: 414657585277312298
+      ch_charm_parry_attack_spark_0005_3: 1372272023487879520
+      ch_charm_parry_attack_spark_0005_30: -6135619094682660021
+      ch_charm_parry_attack_spark_0005_31: 4115875313788503387
+      ch_charm_parry_attack_spark_0005_32: 5745545651130664259
+      ch_charm_parry_attack_spark_0005_33: -7114369865842174751
+      ch_charm_parry_attack_spark_0005_34: -5940212798124122196
+      ch_charm_parry_attack_spark_0005_35: -7304570934202753295
+      ch_charm_parry_attack_spark_0005_36: -3294457075547979653
+      ch_charm_parry_attack_spark_0005_37: -3592435796676106665
+      ch_charm_parry_attack_spark_0005_38: 3090981011878068097
+      ch_charm_parry_attack_spark_0005_39: -1826343836476813603
+      ch_charm_parry_attack_spark_0005_4: -1408415997877705475
+      ch_charm_parry_attack_spark_0005_40: 5815770620341751117
+      ch_charm_parry_attack_spark_0005_41: -4798020389319726257
+      ch_charm_parry_attack_spark_0005_42: -2912668669975841532
+      ch_charm_parry_attack_spark_0005_43: -6669016051192142802
+      ch_charm_parry_attack_spark_0005_44: -9206099187380170106
+      ch_charm_parry_attack_spark_0005_45: -5416628626718634016
+      ch_charm_parry_attack_spark_0005_46: 5511157214934413364
+      ch_charm_parry_attack_spark_0005_47: -2015602798871440677
+      ch_charm_parry_attack_spark_0005_48: -1692347387210603830
+      ch_charm_parry_attack_spark_0005_49: 895745648555400137
+      ch_charm_parry_attack_spark_0005_5: -7746263667447711467
+      ch_charm_parry_attack_spark_0005_50: -1128318927168093547
+      ch_charm_parry_attack_spark_0005_51: -1307973545644498938
+      ch_charm_parry_attack_spark_0005_52: -2971779979532302235
+      ch_charm_parry_attack_spark_0005_53: 8681180097378901353
+      ch_charm_parry_attack_spark_0005_54: 8566411303978101204
+      ch_charm_parry_attack_spark_0005_55: 4354352942376635237
+      ch_charm_parry_attack_spark_0005_6: 4592674658592112342
+      ch_charm_parry_attack_spark_0005_7: 7419943596072935369
+      ch_charm_parry_attack_spark_0005_8: 5546113448319908355
+      ch_charm_parry_attack_spark_0005_9: 7789696801402558040
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
